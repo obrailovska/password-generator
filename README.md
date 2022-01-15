@@ -13,6 +13,7 @@ No installation needed.
 - JavaScript
 
 ## webside
+https://obrailovska.github.io/password-generator/index.html
 
 ## Contributing
 
