@@ -12,7 +12,7 @@ No installation needed.
 - CSS
 - JavaScript
 
-## webside
+## Live-Demo
 https://obrailovska.github.io/password-generator/index.html
 
 ## Contributing
